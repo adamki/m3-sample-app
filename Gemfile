@@ -15,7 +15,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
-
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
 # gem 'bcrypt', '~> 3.1.7'
 # gem 'unicorn'
 # gem 'capistrano-rails', group: :development
